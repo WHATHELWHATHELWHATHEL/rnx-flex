@@ -1,0 +1,23 @@
+{
+  "name": "@wnpm/rnx-flex",
+  "version": "1.0.0",
+  "description": "A Collections of object for creating flex style in react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WHATHELWHATHELWHATHEL/rnx-flex.git"
+  },
+  "keywords": [
+    "flex",
+    "react-native"
+  ],
+  "author": "yifan.chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WHATHELWHATHELWHATHEL/rnx-flex/issues"
+  },
+  "homepage": "https://github.com/WHATHELWHATHELWHATHEL/rnx-flex#readme"
+}
